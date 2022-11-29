@@ -86,7 +86,7 @@ body {
 }
 
 .link-nav:hover {
-    color: var(--color-link);
+    color: var(--color-addres);
 }
 
 .link-nav:focus {
@@ -96,7 +96,6 @@ body {
 .link-nav:active {
     color: var(--color-link)
 }
-
 
 .link-contacts {
     font-weight: 400;
@@ -117,7 +116,6 @@ div {
 }
 
 .text-h-three {
-    text-transform: uppercase;
     font-weight: 600;
     font-size: 20px;
     line-height: 1.2;
